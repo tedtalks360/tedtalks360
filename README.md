@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning: Javascript/Python
 - 💞️ I’m looking to collaborate on: small web projects
 - 📫 How to reach me: tedtalksgreen@gmail.com
+- PS: my compny is hiring senior C Developers
 
 <!---
 tedtalks360/tedtalks360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
